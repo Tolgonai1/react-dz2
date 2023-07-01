@@ -1,0 +1,26 @@
+.products {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.text{
+    font-size: 20px;
+}
+
+.counter{
+    width: 20%;
+}
+
+button{
+    margin: 0 15px;
+    font-size: 20px;
+    border: none;
+    border-radius: 8px;
+    padding: 6px 15px;
+    font-weight: bold;
+}
+
+
+
